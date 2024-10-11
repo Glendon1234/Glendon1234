@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Glendon1234
-- - 👀 I’m interested in Football the most over anything
-- 🌱 I’m currently learning cybersecurity
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @Glendon123
 - 📫 How to reach me insta- @gllendon__
 - 😄 Pronouns:he/him
 - ⚡ Fun fact: ...
